@@ -1,0 +1,5 @@
+rootProject.name = 'dto-gen-example'
+include '10_presentation'
+include '20_domain'
+
+
